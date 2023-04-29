@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Music Player</title>
+</head>
+<body>
+    
+    <main>
+        <div class="all">
+            <img src="imagens/guitar.jpg" alt="">
+            <div class="descricao">
+                <h2>You gotta pass by me - CodingTank</h2>
+                <i>Carlos Bido</i>
+            </div>
+    
+            <div class="duracao">
+                <div class="barra">
+                    <progress value="0" max="1"></progress>
+                    <div class="ponto"></div>
+                </div>
+                <div class="tempo">
+                    <p class="inicio">0:00</p>
+                    <p class="fimm">3:15</p>
+                </div>
+            </div>
+    
+            <div class="botoes-player">
+                <i class="fa-solid fa-backward-step setas anterior"></i>
+                <i class="fa-solid fa-play botao-play"></i>
+                <i class="fa-solid fa-pause botao-pause"></i>
+                <i class="fa-solid fa-forward-step setas proxima"></i>
+            </div>
+            
+            <audio src="/musicas/Addict (Instrumental) - NEFFEX.mp3"></audio>
+        </div>
+    </main>
+    
+    <script src="js/script.js"></script>
+</body>
+</html>
