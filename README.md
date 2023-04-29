@@ -18,11 +18,12 @@ Here are the languages used in this project:
 
 ### 1 - When you access, you will see the main page 🎶
 
-![Homepage image](https://github.com/joaopedronm/Playlist-AdaTech/screenshots/main-page.jpg)
+![Homepage image](https://github.com/joaopedronm/Playlist--AdaTech/blob/main/screenshots/main-page.jpg)
 
 ### 2 - Ready! Now all you have to do is press play, advance the songs, rewind the songs, etc.
 
-![Posts](https://github.com/joaopedronm/Playlist-AdaTech/screenshots/second-page.jpg)
+![Posts](https://github.com/joaopedronm/Playlist--AdaTech/blob/main/screenshots/second-page.jpg)
+
 
   ## Authors
 
